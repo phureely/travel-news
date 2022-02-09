@@ -1,0 +1,21 @@
+/*@font-face {
+  font-family: 'Lato';
+  src:url('../fonts/sexy_beachy/Sexy Beachy.otf') format('truetype');
+  font-weight: 500;
+}*/
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/Montserrat/Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  src: url('../fonts/Montserrat/Montserrat-BlackItalic.ttf') format('truetype');
+}
+/* CSS3 PROPERTIES */
+/* Border Radius */
